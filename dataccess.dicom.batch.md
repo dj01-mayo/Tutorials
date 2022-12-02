@@ -24,7 +24,7 @@ First, request the following entitlements in SailPoint.
 - MCC Live - Midia Mdsa AIF Image Science Users
 - MCC Live - ADL - FHIR BigQuery Views - Prod - Privacy Protected
 
-Second (in parallel in okay), submit a [request](https://mcsm.service-now.com/serviceconnect?id=sc_cat_item&table=sc_cat_item&sys_id=967ba0921b1d1c506546b9541a4bcb4a) for Cloud DICOM to have access to write to your project's bucket. 
+Second (in parallel is okay), submit a [request](https://mcsm.service-now.com/serviceconnect?id=sc_cat_item&table=sc_cat_item&sys_id=967ba0921b1d1c506546b9541a4bcb4a) for Cloud DICOM to have access to write to your project's bucket. 
 
 1. Choose Request type = Other,
 1. Complete the required form fields,
